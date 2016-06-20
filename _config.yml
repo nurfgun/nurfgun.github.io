@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nurfgun.github.io
+title: &#54617;&#44368;&#51333;&#51060; DEV BLOG
+tagline: talk about our dev life
+description: My awesome new site
+paginate: 5
